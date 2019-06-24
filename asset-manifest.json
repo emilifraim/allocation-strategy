@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/allocation-strategy/static/css/main.5f56e3e4.chunk.css",
+    "main.js": "/allocation-strategy/static/js/main.92ce2d04.chunk.js",
+    "main.js.map": "/allocation-strategy/static/js/main.92ce2d04.chunk.js.map",
+    "runtime~main.js": "/allocation-strategy/static/js/runtime~main.5a5c6f1d.js",
+    "runtime~main.js.map": "/allocation-strategy/static/js/runtime~main.5a5c6f1d.js.map",
+    "static/js/2.b84443a4.chunk.js": "/allocation-strategy/static/js/2.b84443a4.chunk.js",
+    "static/js/2.b84443a4.chunk.js.map": "/allocation-strategy/static/js/2.b84443a4.chunk.js.map",
+    "index.html": "/allocation-strategy/index.html",
+    "precache-manifest.9d093e0bce082f1ef18425faf1fc7bef.js": "/allocation-strategy/precache-manifest.9d093e0bce082f1ef18425faf1fc7bef.js",
+    "service-worker.js": "/allocation-strategy/service-worker.js",
+    "static/css/main.5f56e3e4.chunk.css.map": "/allocation-strategy/static/css/main.5f56e3e4.chunk.css.map"
+  }
+}
